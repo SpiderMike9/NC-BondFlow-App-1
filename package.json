@@ -19,5 +19,18 @@
     "@vitejs/plugin-react": "^5.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
+    {
+  "name": "nc-bondflow-app-1",
+  "version": "0.1.0",
+  "private": true,
+  // ADD THIS LINE
+  "homepage": "https://spidermike9.github.io/NC-BondFlow-App-1", 
+  // ...rest of your file
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    //...
+  }
+}
   }
 }

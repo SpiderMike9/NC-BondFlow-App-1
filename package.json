@@ -23,9 +23,8 @@
   "name": "nc-bondflow-app-1",
   "version": "0.1.0",
   "private": true,
-  // ADD THIS LINE
-  "homepage": "https://spidermike9.github.io/NC-BondFlow-App-1", 
-  // ...rest of your file
+   "homepage": "https://spidermike9.github.io/NC-BondFlow-App-1", 
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
